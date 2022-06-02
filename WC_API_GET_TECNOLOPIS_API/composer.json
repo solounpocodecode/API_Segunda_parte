@@ -1,0 +1,19 @@
+{
+    "name": "fran/api_tecnopolis",
+    "description": "Prueba de API de tecnopolis",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Fran\\ApiTecnopolis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fran Mellado",
+            "email": "frmm345@gmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.1"
+    }
+}
